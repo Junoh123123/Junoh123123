@@ -8,6 +8,12 @@ I build software that feels simple, even when the systems behind it aren't.
 
 I'm a developer based in Osaka, Japan, working across **local-first applications**, **reliable AI tools**, and **research software**.
 
+### Featured project
+
+**[Inkacre](https://github.com/Junoh123123/inkacre)** is a single-user, local-first workspace for pages, blocks, and databases, backed by SQLite. Its built-in MCP server lets AI agents work in the same workspace. Agent edits are recorded in the change history and can be undone.
+
+The source code is available under the [MIT License](https://github.com/Junoh123123/inkacre/blob/main/LICENSE).
+
 ### What I'm interested in
 
 - **Local-first software** — tools that are fast, private, and put users in control of their data.
