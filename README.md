@@ -1,8 +1,8 @@
 <!-- Juno's GitHub profile README. Public-facing: intentionally omits private project details. -->
 
-<img align="right" width="150" src="https://avatars.githubusercontent.com/u/196774032?v=4" alt="Juno's anime-style avatar" />
-
 # Hi, I'm Juno.
+
+<img align="right" width="150" src="https://avatars.githubusercontent.com/u/196774032?v=4" alt="Juno's anime-style avatar" />
 
 I build software that feels simple, even when the systems behind it aren't.
 
